@@ -3,6 +3,8 @@
 
 In this project, I have analyzed the database of state owned fire hydrants condition across Jakarta.
 
+The analysis itself is more of a technical excercise to develop and tweak choropleth map based on this [article](https://www.relataly.com/visualize-covid-19-data-on-a-geographic-heat-maps/291/).
+
 The dataset which composed of:
   1. periode_data
   2. wilayah
@@ -27,3 +29,4 @@ GeoJSON [Indonesia](https://github.com/thetrisatria/geojson-indonesia?)
 
 ## Changelog
 1. 16-05-2024: Initial release
+2. 19-05-2024: Slight change in pie chart title
